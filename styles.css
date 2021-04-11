@@ -385,7 +385,7 @@ div.nav-bar {
     white-space: normal;
 }
 .logo img{
-    height: 50px;
+    height: 45px;
 }
 ul.nav-links{
     display: flex;
@@ -444,6 +444,7 @@ div.hero-background {
     height: 140px;
     border-radius: 50%;
     box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
+    opacity: 0%;
 }
 div.background {
     background: #fff;
@@ -516,12 +517,11 @@ div.gallery-section {
 
 div.gallery-img {
    display: flex;
-   
    flex-wrap: wrap;
+   margin-left: auto;
    justify-content: center;
    padding-top: 3rem;
 }
-
 
 
 div.img img {
