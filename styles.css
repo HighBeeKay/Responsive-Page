@@ -518,7 +518,7 @@ div.gallery-section {
 div.gallery-img {
    display: flex;
    flex-wrap: wrap;
-   margin-left: auto;
+   margin-left: 5rem;
    justify-content: center;
    padding-top: 3rem;
 }
